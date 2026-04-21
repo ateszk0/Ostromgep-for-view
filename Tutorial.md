@@ -180,7 +180,7 @@ A **Profile** fülön követheted a hosszú távú haladásodat:
 
   
 
-## 7. AI Workout Generator (AI Edzésterv Generáló – Gemini 2.0 Flash)
+## 7. AI Workout Generator (AI Edzésterv Generáló – Gemini 3.0 Flash)
 
   
 
