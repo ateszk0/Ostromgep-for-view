@@ -4,7 +4,7 @@
 
 ## Key Features
 
-- **AI Workout Generator**: Powered by **Gemini 2.5 Flash**, the app generates personalized workout routines based on your available equipment, training frequency, custom goals or injuries.
+- **AI Workout Generator**: Powered by **Gemini 3 Flash**, the app generates personalized workout routines based on your available equipment, training frequency, custom goals or injuries.
 - **Advanced Tracking**: Record sets, reps, and weight with ease. Support for **Supersets**.
 - **Smart Rest Timer**: Foreground service-based rest timer with live notifications, keeping you on track between sets.
 - **Progress Visualization**: Track your training volume over time with intuitive charts.
