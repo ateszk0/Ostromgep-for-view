@@ -4,16 +4,19 @@
 
 ## Key Features
 
-- **AI Workout Generator**: Powered by **Gemini 3 Flash**, the app generates personalized workout routines based on your available equipment, training frequency, custom goals or injuries.
+- **AI Workout Generator & Evaluation**: Powered by **Gemini 3.0 Flash**, the app generates personalized workout routines and provides bilingual post-workout analysis directly in your workout log.
 - **Advanced Tracking**: Record sets, reps, and weight with ease. Support for **Supersets**.
+- **Progressive Overload**: AI-driven suggestions for weight increases based on previous performance. Includes customizable, machine-specific weight increment settings.
 - **Smart Rest Timer**: Foreground service-based rest timer with live notifications, keeping you on track between sets.
 - **Progress Visualization**: Track your training volume over time with intuitive charts.
 - **Exercise Library**: Built-in video demonstrations for correct form guidance.
 - **Fast Search**: Optimized fuzzy-matching search for quickly finding exercises by name or muscle group.
+- **Auto Updater**: Built-in update checker that notifies you when a new release is available on GitHub.
 
 ## Design
 - **Dark Mode Only**: A sleek, high-contrast dark interface optimized for gym environments and focus.
-- **Custom Theming**: Pick the color you like the most.
+- **Custom Theming**: Pick from various accent colors (Blue, Red, Yellow, Green, Purple).
+- **Animated Splash Screen**: A beautiful, modern Android 12+ compliant splash screen on app startup.
 
 ## Tech Stack
 - **Jetpack Compose**: For building the UI.
@@ -30,7 +33,4 @@
 
 ## Get started
 - Download the latest release of the app from the [Releases](https://github.com/ateszk0/Ostromgep-workout-app/releases) page.
-- Read the TUTORIAL.md file for a detailed guide on how to use the app.
-
-#ATTENTION!
-This repository is only for releases. This repository does not contain any code, only the project structure.
+- Read the documentation: [English Tutorial](tutorial_en.md) | [Magyar Útmutató](tutorial_hu.md)
