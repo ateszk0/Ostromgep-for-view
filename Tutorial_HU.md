@@ -95,7 +95,7 @@ A **Profile** fülön követheted a hosszú távú haladásodat:
 Az **Explore Routines** (Rutinok felfedezése) képernyő tetején található az **AI Workout Generator** kártya, amellyel teljesen egyedi, személyre szabott edzésterveket készíthetsz a legmodernebb mesterséges intelligencia segítségével.
 
 -  **API Key**: A generátor használatához szükséged lesz egy saját **Gemini API kulcsra**.
-    1. **Kulcs igénylése**: Lépj a [Google AI Studio](https://aistudio.google.com/) oldalára, jelentkezz be a Google fiókoddal, majd kattints a **'Get API key'** gombra egy új kulcs létrehozásához.
+    1. **Kulcs igénylése**: Lépj a [Google AI Studio](https://aistudio.google.com/api-keys) oldalára, jelentkezz be a Google fiókoddal, majd kattints a **'Get API key'** gombra egy új kulcs létrehozásához.
     2. **Beállítás az appban**: Lépj a **Profile** fülre, kattints a jobb felső sarokban a **Settings** (fogaskerék) ikonra, majd görgess le az **AI (Gemini API Key)** részhez. Illeszd be a kulcsot és mentsd el. Az alkalmazás biztonságosan, titkosítva (**EncryptedSharedPreferences**) tárolja ezt az eszközödön.
 -  **Training days per week (Heti edzésnapok)**: A csúszka segítségével állítsd be, hány napot tervezel edzeni egy héten (1-7 nap). Az MI automatikusan javasol egy optimális felosztást (pl. PPL, Upper/Lower, Full Body, Arnold Split) a napiszáma alapján.
 -  **Additional preferences (Egyéni preferenciák)**: Ez egy opcionális mező, ahol speciális kéréseket adhatsz meg az MI-nek. Például: *„Vállsérülésem van, fókuszáljunk inkább a lábra és a hátra”*, vagy *„Szeretnék több izolációs gyakorlatot a karokra”*.
