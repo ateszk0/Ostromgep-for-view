@@ -29,5 +29,8 @@
 - **FuzzySearch**: For fast search.
 
 ## Get started
-- Download the latest release of the app from the [Releases](https://github.com/ateszk0/Ostromgep-for-view/releases) page.
+- Download the latest release of the app from the [Releases](https://github.com/ateszk0/Ostromgep-workout-app/releases) page.
 - Read the TUTORIAL.md file for a detailed guide on how to use the app.
+
+#ATTENTION!
+This repository is only for releases. This repository does not contain any code, only the project structure.
