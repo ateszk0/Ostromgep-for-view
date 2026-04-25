@@ -95,7 +95,7 @@ On the **Profile** tab, you can track your long-term progress:
 At the top of the **Explore Routines** screen is the **AI Workout Generator** card, which you can use to create completely unique, personalized workout plans using state-of-the-art artificial intelligence.
 
 - **API Key**: To use the generator, you will need your own **Gemini API key**.
-    1. **Obtaining a Key**: Visit [Google AI Studio](https://aistudio.google.com/), sign in with your Google account, and click the **'Get API key'** button to create a new key.
+    1. **Obtaining a Key**: Visit [Google AI Studio](https://aistudio.google.com/api-keys), sign in with your Google account, and click the **'Get API key'** button to create a new key.
     2. **Setup in the app**: Go to the **Profile** tab, click the **Settings** (gear) icon in the top right, and scroll down to the **AI (Gemini API Key)** section. Paste the key and save it. The app stores this securely and encrypted (**EncryptedSharedPreferences**) on your device.
 - **Training days per week**: Use the slider to set how many days you plan to work out in a week (1-7 days). The AI will automatically suggest an optimal split (e.g., PPL, Upper/Lower, Full Body, Arnold Split) based on the number of days.
 - **Additional preferences**: This is an optional field where you can provide specific requests to the AI. For example: *"I have a shoulder injury, let's focus more on legs and back"*, or *"I want more isolation exercises for arms"*.
